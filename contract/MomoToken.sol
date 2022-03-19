@@ -15,7 +15,7 @@
 
 pragma solidity 0.5.7;
 
-import "./ERC20.sol";
+import "./EMOMO20.sol";
 import "./SafeMath.sol";
 
 contract MomoToken is ERC20 {
